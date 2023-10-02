@@ -1,15 +1,6 @@
-# Airtable Utility Scripts
+# Airtable Masterkit
 
-A curated set of JavaScript utility scripts designed to enhance and automate tasks in Airtable's scripting runtime.
-
-## Table of Contents
-
-- [Available Scripts](#available-scripts)
-  - [Bulk Update Records Tool](#bulk-update-records-tool)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+A comprehensive collection of Scripts, Formulas, Automations, Practices, and BKMs meticulously curated to optimize Airtable workflows, boost efficiency, and empower users ranging from novices to seasoned experts
 
 ## Available Scripts
 
