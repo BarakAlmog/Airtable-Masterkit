@@ -2,7 +2,9 @@
 
 This script fetches records from the 'Contacts' table in an Airtable base. For each record, if an 'Update Contact' button with a URL is found, a webhook request is triggered.
 
-![Alt text](../static/img/ClickUrlButtonOnAllRecords.gif)
+<div align="center">
+    <img src="../static/img/ClickUrlButtonOnAllRecords.gif" alt="Alt text" style="width: 80%; border: 1px solid lightgray;">
+</div>
 
 ## How it Works
 
