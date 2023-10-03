@@ -2,12 +2,6 @@
 
 A comprehensive collection of Scripts, Formulas, Automations, Practices, and BKMs meticulously curated to optimize Airtable workflows, boost efficiency, and empower users ranging from novices to seasoned experts
 
-## Available Scripts
-
-### Bulk Update Records Tool
-
-This script provides the ability to bulk update records while handling batch limits, ensuring efficient and smooth updates. Located in `bulkUpdateRecords.js`.
-
 ## Usage
 
 1. Open the desired script file from this repository.
