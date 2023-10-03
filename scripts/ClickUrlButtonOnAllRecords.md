@@ -1,4 +1,4 @@
-# Airtable Contacts Webhook Integration
+# Click a URL Button on All Records
 
 This script fetches records from the 'Contacts' table in an Airtable base. For each record, if an 'Update Contact' button with a URL is found, a webhook request is triggered.
 
